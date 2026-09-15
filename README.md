@@ -4,10 +4,10 @@ Esse repositório foi criado para documentar meus estudos e práticas de CSS mod
 
 ## Tecnologia e Conceitos
 
--HTML5
--CSS3
--Flexbox
--Grid
--Media Queries
--Design Responsivo
--Boas práticas e organização do CSS
+- HTML5
+- CSS3
+- Flexbox
+- Grid
+- Media Queries
+- Design Responsivo
+- Boas práticas e organização do CSS
